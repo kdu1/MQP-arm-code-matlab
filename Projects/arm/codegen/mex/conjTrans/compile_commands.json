@@ -1,0 +1,56 @@
+[
+  {
+    "directory": "C:\\Users\\kaley\\MATLAB\\Projects\\arm\\codegen\\mex\\conjTrans",
+    "command": "cl /c /Zc:__cplusplus /Zp8 /GR /W3 /EHs /nologo /MD /D_CRT_SECURE_NO_DEPRECATE /D_SCL_SECURE_NO_DEPRECATE /D_SECURE_SCL=0   /DMATLAB_MEX_FILE  /DMATLAB_MEX_FILE /O2 /Oy- /DNDEBUG /fp:strict /utf-8 /I \".\" /I \"C:\\Users\\kaley\\MATLAB\\Projects\\arm\" /I \".\\interface\" /I \"C:\\Program Files\\MATLAB\\R2023b\\extern\\include\" /I \".\" -DMODEL=conjTrans_mex -DMW_NEEDS_VERSION_H /wd4251  conjTrans_data.cpp /Fobuild\\win64\\conjTrans_data.obj",
+    "file": "conjTrans_data.cpp",
+    "output": "build/win64/conjTrans_data.obj"
+  },
+  {
+    "directory": "C:\\Users\\kaley\\MATLAB\\Projects\\arm\\codegen\\mex\\conjTrans",
+    "command": "cl /c /Zc:__cplusplus /Zp8 /GR /W3 /EHs /nologo /MD /D_CRT_SECURE_NO_DEPRECATE /D_SCL_SECURE_NO_DEPRECATE /D_SECURE_SCL=0   /DMATLAB_MEX_FILE  /DMATLAB_MEX_FILE /O2 /Oy- /DNDEBUG /fp:strict /utf-8 /I \".\" /I \"C:\\Users\\kaley\\MATLAB\\Projects\\arm\" /I \".\\interface\" /I \"C:\\Program Files\\MATLAB\\R2023b\\extern\\include\" /I \".\" -DMODEL=conjTrans_mex -DMW_NEEDS_VERSION_H /wd4251  rt_nonfinite.cpp /Fobuild\\win64\\rt_nonfinite.obj",
+    "file": "rt_nonfinite.cpp",
+    "output": "build/win64/rt_nonfinite.obj"
+  },
+  {
+    "directory": "C:\\Users\\kaley\\MATLAB\\Projects\\arm\\codegen\\mex\\conjTrans",
+    "command": "cl /c /Zc:__cplusplus /Zp8 /GR /W3 /EHs /nologo /MD /D_CRT_SECURE_NO_DEPRECATE /D_SCL_SECURE_NO_DEPRECATE /D_SECURE_SCL=0   /DMATLAB_MEX_FILE  /DMATLAB_MEX_FILE /O2 /Oy- /DNDEBUG /fp:strict /utf-8 /I \".\" /I \"C:\\Users\\kaley\\MATLAB\\Projects\\arm\" /I \".\\interface\" /I \"C:\\Program Files\\MATLAB\\R2023b\\extern\\include\" /I \".\" -DMODEL=conjTrans_mex -DMW_NEEDS_VERSION_H /wd4251  conjTrans_initialize.cpp /Fobuild\\win64\\conjTrans_initialize.obj",
+    "file": "conjTrans_initialize.cpp",
+    "output": "build/win64/conjTrans_initialize.obj"
+  },
+  {
+    "directory": "C:\\Users\\kaley\\MATLAB\\Projects\\arm\\codegen\\mex\\conjTrans",
+    "command": "cl /c /Zc:__cplusplus /Zp8 /GR /W3 /EHs /nologo /MD /D_CRT_SECURE_NO_DEPRECATE /D_SCL_SECURE_NO_DEPRECATE /D_SECURE_SCL=0   /DMATLAB_MEX_FILE  /DMATLAB_MEX_FILE /O2 /Oy- /DNDEBUG /fp:strict /utf-8 /I \".\" /I \"C:\\Users\\kaley\\MATLAB\\Projects\\arm\" /I \".\\interface\" /I \"C:\\Program Files\\MATLAB\\R2023b\\extern\\include\" /I \".\" -DMODEL=conjTrans_mex -DMW_NEEDS_VERSION_H /wd4251  conjTrans_terminate.cpp /Fobuild\\win64\\conjTrans_terminate.obj",
+    "file": "conjTrans_terminate.cpp",
+    "output": "build/win64/conjTrans_terminate.obj"
+  },
+  {
+    "directory": "C:\\Users\\kaley\\MATLAB\\Projects\\arm\\codegen\\mex\\conjTrans",
+    "command": "cl /c /Zc:__cplusplus /Zp8 /GR /W3 /EHs /nologo /MD /D_CRT_SECURE_NO_DEPRECATE /D_SCL_SECURE_NO_DEPRECATE /D_SECURE_SCL=0   /DMATLAB_MEX_FILE  /DMATLAB_MEX_FILE /O2 /Oy- /DNDEBUG /fp:strict /utf-8 /I \".\" /I \"C:\\Users\\kaley\\MATLAB\\Projects\\arm\" /I \".\\interface\" /I \"C:\\Program Files\\MATLAB\\R2023b\\extern\\include\" /I \".\" -DMODEL=conjTrans_mex -DMW_NEEDS_VERSION_H /wd4251  conjTrans.cpp /Fobuild\\win64\\conjTrans.obj",
+    "file": "conjTrans.cpp",
+    "output": "build/win64/conjTrans.obj"
+  },
+  {
+    "directory": "C:\\Users\\kaley\\MATLAB\\Projects\\arm\\codegen\\mex\\conjTrans",
+    "command": "cl /c /Zc:__cplusplus /Zp8 /GR /W3 /EHs /nologo /MD /D_CRT_SECURE_NO_DEPRECATE /D_SCL_SECURE_NO_DEPRECATE /D_SECURE_SCL=0   /DMATLAB_MEX_FILE  /DMATLAB_MEX_FILE /O2 /Oy- /DNDEBUG /fp:strict /utf-8 /I \".\" /I \"C:\\Users\\kaley\\MATLAB\\Projects\\arm\" /I \".\\interface\" /I \"C:\\Program Files\\MATLAB\\R2023b\\extern\\include\" /I \".\" -DMODEL=conjTrans_mex -DMW_NEEDS_VERSION_H /wd4251  interface\\_coder_conjTrans_api.cpp /Fobuild\\win64\\_coder_conjTrans_api.obj",
+    "file": "interface/_coder_conjTrans_api.cpp",
+    "output": "build/win64/_coder_conjTrans_api.obj"
+  },
+  {
+    "directory": "C:\\Users\\kaley\\MATLAB\\Projects\\arm\\codegen\\mex\\conjTrans",
+    "command": "cl /c /Zc:__cplusplus /Zp8 /GR /W3 /EHs /nologo /MD /D_CRT_SECURE_NO_DEPRECATE /D_SCL_SECURE_NO_DEPRECATE /D_SECURE_SCL=0   /DMATLAB_MEX_FILE  /DMATLAB_MEX_FILE /O2 /Oy- /DNDEBUG /fp:strict /utf-8 /I \".\" /I \"C:\\Users\\kaley\\MATLAB\\Projects\\arm\" /I \".\\interface\" /I \"C:\\Program Files\\MATLAB\\R2023b\\extern\\include\" /I \".\" -DMODEL=conjTrans_mex -DMW_NEEDS_VERSION_H /wd4251  interface\\_coder_conjTrans_mex.cpp /Fobuild\\win64\\_coder_conjTrans_mex.obj",
+    "file": "interface/_coder_conjTrans_mex.cpp",
+    "output": "build/win64/_coder_conjTrans_mex.obj"
+  },
+  {
+    "directory": "C:\\Users\\kaley\\MATLAB\\Projects\\arm\\codegen\\mex\\conjTrans",
+    "command": "cl /c /Zc:__cplusplus /Zp8 /GR /W3 /EHs /nologo /MD /D_CRT_SECURE_NO_DEPRECATE /D_SCL_SECURE_NO_DEPRECATE /D_SECURE_SCL=0   /DMATLAB_MEX_FILE  /DMATLAB_MEX_FILE /O2 /Oy- /DNDEBUG /fp:strict /utf-8 /I \".\" /I \"C:\\Users\\kaley\\MATLAB\\Projects\\arm\" /I \".\\interface\" /I \"C:\\Program Files\\MATLAB\\R2023b\\extern\\include\" /I \".\" -DMODEL=conjTrans_mex -DMW_NEEDS_VERSION_H /wd4251  interface\\_coder_conjTrans_info.cpp /Fobuild\\win64\\_coder_conjTrans_info.obj",
+    "file": "interface/_coder_conjTrans_info.cpp",
+    "output": "build/win64/_coder_conjTrans_info.obj"
+  },
+  {
+    "directory": "C:\\Users\\kaley\\MATLAB\\Projects\\arm\\codegen\\mex\\conjTrans",
+    "command": "cl /c /Zc:__cplusplus /Zp8 /GR /W3 /EHs /nologo /MD /D_CRT_SECURE_NO_DEPRECATE /D_SCL_SECURE_NO_DEPRECATE /D_SECURE_SCL=0   /DMATLAB_MEX_FILE  /DMATLAB_MEX_FILE /O2 /Oy- /DNDEBUG /fp:strict /utf-8 /I \".\" /I \"C:\\Users\\kaley\\MATLAB\\Projects\\arm\" /I \".\\interface\" /I \"C:\\Program Files\\MATLAB\\R2023b\\extern\\include\" /I \".\" -DMODEL=conjTrans_mex -DMW_NEEDS_VERSION_H /wd4251  \"C:\\Program Files\\MATLAB\\R2023b\\extern\\version\\cpp_mexapi_version.cpp\" /Fobuild\\win64\\cpp_mexapi_version.obj",
+    "file": "C:/Program Files/MATLAB/R2023b/extern/version/cpp_mexapi_version.cpp",
+    "output": "build/win64/cpp_mexapi_version.obj"
+  }
+]
